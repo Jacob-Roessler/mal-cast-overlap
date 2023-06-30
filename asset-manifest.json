@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mal-cast-overlap/static/css/main.6016fbb2.css",
+    "main.js": "/mal-cast-overlap/static/js/main.50f42b02.js",
+    "static/js/787.62c47321.chunk.js": "/mal-cast-overlap/static/js/787.62c47321.chunk.js",
+    "index.html": "/mal-cast-overlap/index.html",
+    "main.6016fbb2.css.map": "/mal-cast-overlap/static/css/main.6016fbb2.css.map",
+    "main.50f42b02.js.map": "/mal-cast-overlap/static/js/main.50f42b02.js.map",
+    "787.62c47321.chunk.js.map": "/mal-cast-overlap/static/js/787.62c47321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6016fbb2.css",
+    "static/js/main.50f42b02.js"
+  ]
+}
