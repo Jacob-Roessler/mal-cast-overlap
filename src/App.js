@@ -1,23 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import PersonForm from './components/PersonForm';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="w-full bg-gray-900 overflow-hidden ">
+        <h1 className="text-white text-2xl mt-20">Mal Cast Overlap</h1>
+        <PersonForm></PersonForm>
+      </div>
     </div>
   );
 }
